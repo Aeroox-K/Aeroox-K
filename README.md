@@ -1,4 +1,4 @@
-## Hi My name is Wisdom Kayea 👋
+## Hi my name is Wisdom Kayea 👋
 
 I'm a Creative Frontend Developer
 
