@@ -1,6 +1,6 @@
 ## Hi my name is Wisdom Kayea 👋
 
-I'm a Creative Frontend Developer
+<b>I'm a Creative Frontend Developer</b>
 <br>
 <br>🌍  Here is my website - https://wisdomkayea.dev
 <br>✉️  You can contact me at wisdomkayea16@gmail.com
